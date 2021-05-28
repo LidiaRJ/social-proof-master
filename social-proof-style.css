@@ -171,7 +171,7 @@ div.box__one, div.box__two, div.box__three {
         display: flex;
         flex-direction: row;
         width: 100%;
-        padding: 100px 0px 20px 100px;
+        padding: 100px 0px 20px 140px;
     }
 
     .copy__container {
