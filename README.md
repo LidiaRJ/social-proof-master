@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-[![Desktop_version](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-desktop.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-desktop.jpg)
-[![Mobile_version](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile.jpg)
-[![Mobile_version_burger_menu](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile-menu.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile-menu.jpg)
+[![Desktop_version](https://github.com/LidiaRJ/social-proof-master/blob/main/screenshots/social-proof-desktop.jpg)](https://github.com/LidiaRJ/social-proof-master/blob/main/screenshots/social-proof-desktop.jpg)
+
+[![Mobile_version_burger_menu](https://github.com/LidiaRJ/social-proof-master/blob/main/screenshots/social-proof-mobile.jpg)](https://github.com/LidiaRJ/social-proof-master/blob/main/screenshots/social-proof-mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://github.com/LidiaRJ/social-proof-master)](https://github.com/LidiaRJ/social-proof-master)
+- Live Site URL: [(https://lidiarj.github.io/social-proof-master/)](https://lidiarj.github.io/social-proof-master/)
 
 ## My process
 
